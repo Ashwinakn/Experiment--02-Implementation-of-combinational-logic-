@@ -53,7 +53,7 @@ RegisterNumber:  23001424
 ![Exp2 f2](https://github.com/Ashwinakn/Experiment--02-Implementation-of-combinational-logic-/assets/152128332/c6991ce0-5173-4f5b-818d-284a29b7303d)
 
 
-
+ 
 ##OUTPUT:
 ###F1:
 ![Exp2 f1 timing](https://github.com/Ashwinakn/Experiment--02-Implementation-of-combinational-logic-/assets/152128332/135f3096-a962-4d2d-922b-34f9703a616e)
